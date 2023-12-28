@@ -123,7 +123,7 @@ public class PageMoviesType implements Handler {
         // Footer
         html = html + """
             <div class='footer'>
-                <p>COSC2803 Module 0 - Week 06</p>
+                <p>COSC3056 Module 0 - Week 06</p>
             </div>
         """;
 
